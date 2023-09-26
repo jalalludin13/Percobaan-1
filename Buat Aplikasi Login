@@ -1,0 +1,4 @@
+# Buat aplikasi login
+
+username = int(input('masukkan username anda: '))
+password = str(input('masukkan password anda: '))
